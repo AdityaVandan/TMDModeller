@@ -1,0 +1,5 @@
+Compiled from "TMForward.java"
+public class com.thinking.machines.tmws.TMForward {
+  public com.thinking.machines.tmws.TMForward(java.lang.String);
+  public java.lang.String getPath();
+}
